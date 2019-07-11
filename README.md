@@ -5,8 +5,7 @@ A library of models for microgrid applications: renewables, storage, etc.
 * ...
 
 ## Citing this repository
-...
-A paper may be written in the future, and will be referenced here.
+A paper may be written in the future, and will be referenced here. In the mean type, please cite this repository.
 
 ## Contributors
 * Robin Roche, UBFC/UTBM, FEMTO-ST/FCLAB
@@ -16,22 +15,9 @@ A paper may be written in the future, and will be referenced here.
 Please follow the rules below when contributing. All contributions are welcome.
 
 ### Modeled components
-* Energy sources:
-** Diesel generator
-** Microturbine
-** PV panels
-** Wind turbine
-** Hydro
-* Energy storage units:
-** Battery
-** Super capacitor
-** Flywheel
-** Hydrogen (electrolyzer, tank and fuel cell)
-* Other types:
-** Load
-** Protection relay
-** Power line
-** Static converter (inverter, rectifier, DC/DC, etc.)
+* Energy sources: diesel generator, microturbine, PV panels, wind turbine, hydro, ...
+* Energy storage units: battery, supercapacitor, flywheel, hydrogen (electrolyzer, tank and fuel cell), ...
+* Other types: load, protection relay, power line, static converter (inverter, rectifier, DC/DC, etc.), ...
 * Whatever you think could be useful
 
 ### Language
