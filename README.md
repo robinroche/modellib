@@ -2,10 +2,10 @@
 A library of models for microgrid applications: renewables, storage, etc.
 
 ## Available models
-* ...
+* PV model_1: generic, power
 
 ## Citing this repository
-A paper may be written in the future, and will be referenced here. In the mean type, please cite this repository.
+A paper may be written in the future, and will be referenced here. In the mean time, please cite this repository.
 
 ## Contributors
 * Robin Roche, UBFC/UTBM, FEMTO-ST/FCLAB
