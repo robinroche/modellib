@@ -6,12 +6,12 @@
 % Parameters: see dedicated file
 
 % *** FILES ***
-% README: this document
-% pv_module: model of a PV modules
-% pv_plant: model of a PV plant
-% load_parameters: to load the parameters of the model
-% validation: a test to validate the model
-
+% README.m: this document
+% pv_module.m: model of a PV modules
+% pv_plant.m: model of a PV plant
+% load_parameters.m: to load the parameters of the model
+% validation.m: a test to validate the model
+% ds-e20-series-435-solar-panel-datasheet.pdf: a module datasheet
 
 % *** CONTRIBUTORS ***
 % Name: Robin Roche
