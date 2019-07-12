@@ -3,6 +3,7 @@ A library of models for microgrid applications: renewables, storage, etc.
 
 ## Available models
 * PV model_1: generic, power
+* PV model_2: generic, voltage-current
 
 ## Citing this repository
 A paper may be written in the future, and will be referenced here. In the mean time, please cite this repository.
