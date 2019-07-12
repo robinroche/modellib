@@ -6,10 +6,11 @@
 % Parameters: efficiency, area
 
 % *** FILES ***
-% README: this document
-% pv_model: the model itself 
-% load_parameters: to load the parameters of the model
-% validation: a test to validate the model
+% README.m: this document
+% pv_model.m: the model itself 
+% load_parameters.m: to load the parameters of the model
+% validation.m: a test to validate the model
+% radiation_20150408.mat: a solar radiation profile (1 minute time step)
 
 % *** CONTRIBUTORS ***
 % Name: Robin Roche
