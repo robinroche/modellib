@@ -5,6 +5,7 @@ A library of models for microgrid applications: renewables, storage, etc.
 * PV model1: generic, power
 * PV model2: generic, voltage-current
 * Fuel cell model1: PEM, voltage-current
+* Wind turbine model1: generic, power
 
 ## Citing this repository
 A paper may be written in the future, and will be referenced here. In the mean time, please cite this repository.
