@@ -40,6 +40,7 @@ The following files should be provided:
 * Model of the system, using the unit model (solar module, battery pack, etc.)
 * Validation of the model, with the corresponding input data
 * File dedicated to defining the parameters for a given real system, with a reference to the datasheet
+
 More files can be added whenever relevant.
 
 ###  Validation of the models
