@@ -1,7 +1,7 @@
 % *** MODEL ***
 % "Component": hydrogen compressibility
 % Input: temperature
-% Output: compressibility factor (z)
+% Output: compressibility factor (z) up to 250 bar
 % Parameters: polynomial coefficients (see [1])
 
 % *** FILES ***
