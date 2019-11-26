@@ -6,6 +6,7 @@ A library of models for microgrid applications: renewables, storage, etc.
 * PV model2: generic, voltage-current
 * Fuel cell model1: PEM, voltage-current
 * Wind turbine model1: generic, power
+* Hydrogen tank: generic, medium pressure
 
 Other available relevant models:
 * Hydrogen compressibility factor
