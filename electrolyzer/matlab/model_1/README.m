@@ -1,6 +1,6 @@
 % *** MODEL ***
 % Component: electrolyzer
-% Type: alcaline, voltage-curent
+% Type: alkaline, voltage-curent
 % Input: current
 % Output: voltage, power, hydrogen production
 % Parameters: see load_parameters.m
