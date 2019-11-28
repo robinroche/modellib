@@ -5,7 +5,7 @@ clear all
 clc
 
 % Load parameters
-params = load_parameters(2); % see function
+params = load_parameters(2); % see function for meaning of n
 
 % Model
 I_max = 900; % [A]
