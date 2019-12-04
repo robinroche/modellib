@@ -17,6 +17,7 @@ A paper may be written in the future, and will be referenced here. In the mean t
 
 ## Contributors
 * Robin Roche, UBFC/UTBM, FEMTO-ST/FCLAB
+* Berk Celik, UBFC/UTBM, FEMTO-ST/FCLAB
 
 ## Instructions for contributing
 Please follow the rules below when contributing. All contributions are welcome.
