@@ -12,7 +12,7 @@
 % validation.m: a test to validate the model
 
 % *** CONTRIBUTORS ***
-% Name: Robin Roche
+% Name: Berk Celik, Robin Roche
 % Affiliation: UBFC / UTBM, FEMTO-ST / FCLAB
 
 % *** REFERENCES ***
