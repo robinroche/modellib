@@ -15,5 +15,5 @@ function [V_el,P_el_stack,np_h2,np_h2_kg,np_h2_m3] = el_model(params,I_e,I)
   np_h2_m3 = np_h2*3600*0.08206*293.15/1e3; % [Nm^3/h]
         
   % Power
-  P_el_stack = params.n_c*V_el*I_e;
+  P_el_stack = V_el*I_e;
 end
